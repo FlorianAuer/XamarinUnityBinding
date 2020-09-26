@@ -11,3 +11,5 @@ Instructions:
 These steps work with the reduced API of the UnityFramework to make it simpler to bind (See [custom Unity as a Library Sample](https://github.com/FlorianAuer/Unity_as_a_Library-Xamarin-example)). Feel free to enhance this. Pull requests accepted, but keep [custom Unity as a Library Sample](https://github.com/FlorianAuer/Unity_as_a_Library-Xamarin-example) in mind.
 
 Thanks to all the people in this [thread](https://forums.xamarin.com/discussion/161967/ios-binding-unity-as-a-library)
+
+A Xamarin.Android Unity Binding can be found [here](https://github.com/EgorBo/XamarinWithUnityApp)
