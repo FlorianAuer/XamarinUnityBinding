@@ -1,6 +1,6 @@
 # XamarinUnityBinding
 
-__[Update]__ Recently I'm working on an Xamarin.Forms Unity3d-View for iOS and Android. If you are interested in participating or getting early access, just send me an email to [unity4xamarin@auerflorian.com](mailto:unity4xamarin@auerflorian.com)
+__[Update V2]__ Recently I'm working on an Xamarin.Forms Unity3d-View for iOS and Android. See https://github.com/FlorianAuer/UnityView4Xamarin.Forms
 
 
 Xamarin iOS binding project to bind a modified UnityFramework.framework file
