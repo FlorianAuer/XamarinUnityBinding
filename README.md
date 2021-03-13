@@ -16,4 +16,4 @@ These steps work with the reduced API of the UnityFramework to make it simpler t
 
 Thanks to all the people in this [thread](https://forums.xamarin.com/discussion/161967/ios-binding-unity-as-a-library)
 
-A Xamarin.Android Unity Binding can be found [here](https://github.com/EgorBo/XamarinWithUnityApp)
+A Xamarin.Android Unity Binding can be found [here](https://github.com/FlorianAuer/UnityView4Xamarin.Forms)
